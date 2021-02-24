@@ -4,7 +4,6 @@ Este es un ejemplo de texto que da entrada a una lista genérica de elementos:
 - Elemento 2
 - Elemento 3
 
-
 Este es un ejemplo de texto que da entrada a una lista numerada:
 
 1. Elemento 1
@@ -25,4 +24,4 @@ Puedes añadir tantas líneas y párrafos como quieras.
 [enlace en línea](http://www.limni.net)
 
 `Esto es una línea de código`
-![Texto alternativo](imagen.png)
+![Texto alternativo](imagen.png) 
