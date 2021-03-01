@@ -24,4 +24,5 @@ Puedes añadir tantas líneas y párrafos como quieras.
 [enlace en línea](http://www.limni.net)
 
 `Esto es una línea de código`
+
 ![Texto alternativo](imagen.png) 
